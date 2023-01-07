@@ -1,3 +1,3 @@
-module github.com/ahmadbadrululum/go-say-hello.git
+module github.com/ahmadbadrululum/go-say-hello
 
 go 1.18
